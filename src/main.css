@@ -1,0 +1,27 @@
+html, body{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-container{
+    margin: 20px;
+    padding: 10px;
+}
+
+nav ul{
+    list-style: none;
+    padding: 25px;
+    display: flex;
+    justify-content: space-around;
+    gap: 15px;
+}
+
+li{
+    display: inline;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
